@@ -17,7 +17,7 @@ The tool is a shell command line utility that returns information over all [S3](
 
 People who have successfully passed the challenge and are now happy members of the WGU Labs team usually took from 4 to 10 hours to complete it.
 
-Remember the KISS principle...
+Remember the KISS(keep it simple, stupid) principle...
 
 ### The tool must return the following information
 
